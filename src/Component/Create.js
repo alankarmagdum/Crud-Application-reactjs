@@ -33,6 +33,7 @@ const Create = () => {
     <>
       <div className="d-flex justify-content-between m-2">
         <h2>Create</h2>
+        <h3>This is new Change</h3>
         <Link to="/read">
           <button className="btn btn-primary">Show Data</button>
         </Link>
